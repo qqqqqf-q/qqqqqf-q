@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub profile!
 
-<!--
-**qqqqqf-q/qqqqqf-q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好呀，我是 **清凤** (Qingfeng)!  
+Hi there, I'm **Qingfeng**!
 
-Here are some ideas to get you started:
+## 🤔 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Base**: 浙江 · 宁波 | Ningbo, Zhejiang  
+🧠 **MBTI**: ISTP
+
+💻 **身份**: 一名还在路上的 **CS³ 玩家** 👾   
+**Role**: A **CS³ Player** on the road.
+
+> **CS³ Definition**:
+> * **C**omputer **S**cience (计算机科学)
+> * **C**ounter-**S**trike (反恐精英)
+> * **C**ities: **S**kylines (天际线)
+
+❤️ **状态**: 精神状态良好(也许是)，Python 重度依赖，后端正在修炼中。  
+⚡ **Status**: Mental state: Stable (Trust me). Heavily addicted to Python. Cultivating Backend skills.
+
+🥺 **前端**: 正在努力... (大佬求带!)  
+🚑 **Frontend**: 404 Skill Not Found. (Send help!)
+
+## ⚙️ Tech Stack
+
+### 🛠️ Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=py,rust,postgres,docker,git,linux,windows,cloudflare)](https://skillicons.dev)
+
+## 📊 Statistics
+
+![Qingfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqqqqf-q&show_icons=true&theme=radical&hide_rank=true)
+
+## 🔗 Connect with me
+
+* **Telegram**: [NS_qingf_bot](http://t.me/NS_qingf_bot) (找我聊天 | Chat with me)
+* **X (Twitter)**: [@qqqqqf5](https://x.com/qqqqqf5) (看我发癫 | Watch me yapping)
