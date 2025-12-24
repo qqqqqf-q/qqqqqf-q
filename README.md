@@ -16,16 +16,16 @@ Hi there, I'm **Qingfeng**!
 > * **C**ounter-**S**trike (反恐精英)
 > * **C**ities: **S**kylines (天际线)
 
-❤️ **状态**: 精神状态良好(也许是)，Python 重度依赖，后端正在修炼中。  
-⚡ **Status**: Mental state: Stable (Trust me). Heavily addicted to Python. Cultivating Backend skills.
+ **状态**: 精神状态良好(也许是)，Python 精通 | Rust & JS 可写
+ **Status**: Mental state: Stable (Trust me). Heavily addicted to Python. Can use Rust & JS.
 
-🥺 **前端**: 正在努力... (大佬求带!)  
-🚑 **Frontend**: 404 Skill Not Found. (Send help!)
+ **前端**: Vibe Coding!
+ **Frontend**: Vibe Coding!
 
 ## ⚙️ Tech Stack
 
 ### 🛠️ Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,rust,postgres,docker,git,linux,windows,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,postgres,docker,git,linux,windows,cloudflare,javascript)](https://skillicons.dev)
 
 ## 📊 Statistics
 
