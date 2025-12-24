@@ -32,9 +32,10 @@ Hi there, I'm **Qingfeng**!
 ## 📊 Statistics
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=qqqqqf-q&hide_rank=true)  
-<a href="https://github.com/Pranesh-2005/convoychat">
+<a href="https://github.com/qqqqqf-q/">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=qqqqqf-q&layout=compact&langs_count=8&card_width=320" />
-</a>
+</a>  
+~~JavaScript项目后期会上传~~
 ## 🔗 Connect with me
 
 * **Telegram**: [NS_qingf_bot](http://t.me/NS_qingf_bot) (找我聊天 | Chat with me)
