@@ -29,8 +29,10 @@ Hi there, I'm **Qingfeng**!
 
 ## 📊 Statistics
 
-![Qingfeng's GitHub stats](https://github-readme-stats.vercel.app/api?username=qqqqqf-q&show_icons=true&theme=radical&hide_rank=true)
-
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=qqqqqf-q&hide_rank=true)  
+<a href="https://github.com/Pranesh-2005/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=qqqqqf-q&layout=compact&langs_count=8&card_width=320" />
+</a>
 ## 🔗 Connect with me
 
 * **Telegram**: [NS_qingf_bot](http://t.me/NS_qingf_bot) (找我聊天 | Chat with me)
