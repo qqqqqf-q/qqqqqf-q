@@ -6,7 +6,9 @@ Hi there, I'm **Qingfeng**!
 ## 🤔 About me
 
 📍 **Base**: 浙江 · 宁波 | Ningbo, Zhejiang  
-🧠 **MBTI**: ISTP
+🧠 **MBTI**: ISTP  
+**研发方向**:交易/量化/神经网络  
+**Focus**: Trading | Quant | Neural Networks
 
 💻 **身份**: 一名还在路上的 **CS³ 玩家** 👾   
 **Role**: A **CS³ Player** on the road.
@@ -16,7 +18,7 @@ Hi there, I'm **Qingfeng**!
 > * **C**ounter-**S**trike (反恐精英)
 > * **C**ities: **S**kylines (天际线)
 
- **状态**: 精神状态良好(也许是)，Python 精通 | Rust & JS 可写
+ **状态**: 精神状态良好(也许是)，Python 精通 | Rust & JS 可写  
  **Status**: Mental state: Stable (Trust me). Heavily addicted to Python. Can use Rust & JS.
 
  **前端**: Vibe Coding!
