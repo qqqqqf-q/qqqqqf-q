@@ -3,23 +3,23 @@
 你好呀，我是 **清凤** (Qingfeng)!  
 Hi there, I'm **Qingfeng**!
 
-## 🤔 About me
+##  About me
 
-📍 **Base**: 浙江 · 宁波 | Ningbo, Zhejiang  
-🧠 **MBTI**: ISTP and maybe... ENTP?
-**研发方向**:交易/量化/神经网络  
+ **Base**: 浙江 · 宁波 | Ningbo, Zhejiang  
+ **MBTI**: ISTP or... Sometimes ENTP?  
+**研发方向**:交易/量化/神经网络/后端开发  
 **Focus**: Trading | Quant | Neural Networks
 
-💻 **身份**: 一名还在路上的 **CS³ 玩家** 👾   
+ **身份**: **CS³ Player**  
 **Role**: A **CS³ Player** on the road.
 
 > **CS³ Definition**:
-> * **C**omputer **S**cience (计算机科学)
-> * **C**ounter-**S**trike (反恐精英)
-> * **C**ities: **S**kylines (天际线)
+> * **C**omputer **S**cience 
+> * **C**ounter-**S**trike 
+> * **C**ities: **S**kylines
 
- **状态**: 精神状态良好(也许是)，Python 精通 | Rust & JS 可写  
- **Status**: Mental state: Stable (Trust me). Heavily addicted to Python. Can use Rust & JS.
+ **状态**: 精神状态良好，Python 精通 | Rust & JS 可写  
+ **Status**: Mental state: Stable . Heavily addicted to Python. Can use Rust & JS.
 
  **前端**: Vibe Coding!
  **Frontend**: Vibe Coding!
@@ -27,9 +27,9 @@ Hi there, I'm **Qingfeng**!
 ## ⚙️ Tech Stack
 
 ### 🛠️ Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,rust,postgres,docker,git,linux,windows,cloudflare,javascript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,javascript,postgres,docker,git,linux,windows,cloudflare)](https://skillicons.dev)
 
-## 📊 Statistics
+##  Statistics
 
 ![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=qqqqqf-q&hide_rank=true)  
 <a href="https://github.com/qqqqqf-q/">
