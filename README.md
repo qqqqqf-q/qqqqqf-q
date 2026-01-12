@@ -6,7 +6,7 @@ Hi there, I'm **Qingfeng**!
 ## 🤔 About me
 
 📍 **Base**: 浙江 · 宁波 | Ningbo, Zhejiang  
-🧠 **MBTI**: ISTP  
+🧠 **MBTI**: ISTP and maybe... ENTP?
 **研发方向**:交易/量化/神经网络  
 **Focus**: Trading | Quant | Neural Networks
 
