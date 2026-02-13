@@ -1,11 +1,11 @@
 
 你好呀，我是 **清凤** !  
-Hi there, I'm **qqqqqf**!
+Hi there, I'm **Chiffon**!
 
 ##  About me
 
  **Base**: 浙江| Zhejiang  
-**Focus**: Trading | Quant | Agent | Neural Networks
+**Focus**: Trading | Quant | Agent | Neural Networks  
 **Stack**: Python | Rust | Javascript 
 
 
