@@ -4,15 +4,16 @@ Hi there, I'm **Chiffon**!
 
 ##  About me
 
- **Base**: 浙江| Zhejiang  
-**Focus**: Trading | Quant | Agent | Neural Networks  
-**Stack**: Python | Rust | Javascript 
 
+**Base**: 浙江| Zhejiang  
+**Focus**: Trading | Quant | Agent | Neural Networks  
+~~也许是全栈开发,也许吧~~
+正在努力创造新项目...
 
 ##  Tech Stack
 
 ###  Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,rust,javascript,postgres,docker,git,linux,windows,cloudflare,clojure,kubernetes,terraform,prometheus,grafana,latex,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,rust,javascript,typescript,golang,postgres,docker,git,linux,windows,cloudflare,clojure,kubernetes,terraform,prometheus,grafana,latex,neovim)](https://skillicons.dev)
 
 ##  Connect with me
 
