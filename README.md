@@ -18,4 +18,4 @@ Hi there, I'm **Chiffon**!
 ##  Connect with me
 
 * **Telegram**: [NS_qingf_bot](http://t.me/NS_qingf_bot)
-* **X (Twitter)**: [@qqqqqf5](https://x.com/qqqqqf5) 
+* **X (Twitter)**: [@qqqqqf5](https://x.com/qqqqqf_) 
