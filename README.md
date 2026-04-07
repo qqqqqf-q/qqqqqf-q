@@ -6,9 +6,9 @@ Hi there, I'm **Chiffon**!
 
 
 **Base**: 浙江| Zhejiang  
-**Focus**: Maybe ALL FOR Agent  
+**Focus**: Agent｜前后端
 ~~也许是全栈开发,也许吧~~  
-正在努力创造新项目...
+正在创造[Arkloop](https://github.com/qqqqqf-q/Arkloop)...
 
 ##  Tech Stack
 
