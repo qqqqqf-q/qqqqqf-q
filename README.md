@@ -6,9 +6,8 @@ Hi there, I'm **Chiffon**!
 
 
 **Base**: 浙江| Zhejiang  
-**Focus**: Agent｜前后端
-~~也许是全栈开发,也许吧~~  
-正在创造[Arkloop](https://github.com/qqqqqf-q/Arkloop)...
+**Focus**: Agent｜全栈｜偏向 uiux 设计  
+正在创造[Arkloop](https://github.com/qqqqqf-q/Arkloop) | [Memoh](https://github.com/memohai/Memoh)  
 
 ##  Tech Stack
 
@@ -18,4 +17,4 @@ Hi there, I'm **Chiffon**!
 ##  Connect with me
 
 * **Telegram**: [here](http://t.me/NS_qingf_bot)
-* **X (Twitter)**: [@qqqqqf5](https://x.com/qqqqqf_) 
+* **X (Twitter)**: [@qqqqqf_](https://x.com/qqqqqf_) 
