@@ -5,7 +5,7 @@ Hi there, I'm **Chiffon**!
 ##  About me
 
 
-**Base**: 浙江| Zhejiang  
+**Base**: Shanghai| Shanghai
 **Focus**: Agent｜全栈｜偏向 uiux 设计  
 正在创造[Arkloop](https://github.com/qqqqqf-q/Arkloop) | [Memoh](https://github.com/memohai/Memoh)  
 
