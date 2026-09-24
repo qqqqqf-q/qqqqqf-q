@@ -1,20 +1,11 @@
-
-你好呀，我是 **清凤** !  
 Hi there, I'm **Chiffon**!
 
-##  About me
+## About me
 
+**Based in:** Shanghai, China  
+**Focus:** AI Agents | Full-Stack Development  
+**Interests:** UI/UX Design  
 
-**Base**: Shanghai| Shanghai
-**Focus**: Agent｜全栈｜偏向 uiux 设计  
-正在创造[Arkloop](https://github.com/qqqqqf-q/Arkloop) | [Memoh](https://github.com/memohai/Memoh)  
+Working at [Felinic](https://github.com/felinics).
 
-##  Tech Stack
-
-###  Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=py,rust,javascript,typescript,golang,react,vue,postgres,docker,git,linux,windows,cloudflare,clojure,terraform,prometheus,grafana,latex,neovim)](https://skillicons.dev)
-
-##  Connect with me
-
-* **Telegram**: [here](http://t.me/NS_qingf_bot)
-* **X (Twitter)**: [@qqqqqf_](https://x.com/qqqqqf_) 
+Currently building [Arkloop](https://github.com/qqqqqf-q/Arkloop) and [Memoh](https://github.com/felinics/Memoh).
